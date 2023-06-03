@@ -1,0 +1,113 @@
+{
+    "Admins": [
+        {
+            "id": 1,
+            "userName": "hunglt123",
+            "password": "12345",
+            "firtName": "Hùng",
+            "middleName": "Thế",
+            "lastName": "Lê",
+            "email": "hungltph22617@fpt.edu.vn",
+            "gender": "Male",
+            "role": "ADMIN",
+            "createDate": "02/06/2023",
+            "updateDate": "03/06/2023"
+        },
+        {
+            "id": 2,
+            "userName": "hung203",
+            "password": "12345",
+            "firtName": "Hùng",
+            "middleName": "Thế",
+            "lastName": "Lê",
+            "email": "hungltph22617@fpt.edu.vn",
+            "gender": "Male",
+            "role": "STAFF",
+            "createDate": "02/06/2023",
+            "updateDate": "03/06/2023"
+        }
+    ],
+    "Staffs":[
+        {
+            "studentId": "PH22601",
+            "fullName": "Mai Hoàng Long",
+            "email": "longmhph22601@fpt.edu.vn",
+            "gender": "Male",
+            "dateOfBirth": "29/09/2003",
+            "createDate": "28/05/2023",
+            "updateDate": "28/05/2023"
+        },
+        {
+            "studentId": "PH22617",
+            "fullName": "Lê Thế Hùng",
+            "email": "hungltph22617@fpt.edu.vn",
+            "gender": "Male",
+            "dateOfBirth": "09/12/2003",
+            "createDate": "28/05/2023",
+            "updateDate": "28/05/2023"
+        },
+        {
+            "studentId": "PH22624",
+            "fullName": "Nguyễn Thanh Thúy",
+            "email": "thuyntph@fpt.edu.vn",
+            "gender": "Female",
+            "dateOfBirth": "29/09/2003",
+            "createDate": "28/05/2023",
+            "updateDate": "28/05/2023"
+        },
+        {
+            "studentId": "PH22601",
+            "fullName": "Mai Hoàng Long",
+            "email": "longmhph22601@fpt.edu.vn",
+            "gender": "Male",
+            "dateOfBirth": "29/09/2003",
+            "createDate": "28/05/2023",
+            "updateDate": "28/05/2023"
+        },
+        {
+            "studentId": "PH22617",
+            "fullName": "Lê Thế Hùng",
+            "email": "hungltph22617@fpt.edu.vn",
+            "gender": "Male",
+            "dateOfBirth": "09/12/2003",
+            "createDate": "28/05/2023",
+            "updateDate": "28/05/2023"
+        },
+        {
+            "studentId": "PH22624",
+            "fullName": "Nguyễn Thanh Thúy",
+            "email": "thuyntph@fpt.edu.vn",
+            "gender": "Female",
+            "dateOfBirth": "29/09/2003",
+            "createDate": "28/05/2023",
+            "updateDate": "28/05/2023"
+        },
+        {
+            "studentId": "PH22601",
+            "fullName": "Mai Hoàng Long",
+            "email": "longmhph22601@fpt.edu.vn",
+            "gender": "Male",
+            "dateOfBirth": "29/09/2003",
+            "createDate": "28/05/2023",
+            "updateDate": "28/05/2023"
+        },
+        {
+            "studentId": "PH22617",
+            "fullName": "Lê Thế Hùng",
+            "email": "hungltph22617@fpt.edu.vn",
+            "gender": "Male",
+            "dateOfBirth": "09/12/2003",
+            "createDate": "28/05/2023",
+            "updateDate": "28/05/2023"
+        },
+        {
+            "studentId": "PH22624",
+            "fullName": "Nguyễn Thanh Thúy",
+            "email": "thuyntph@fpt.edu.vn",
+            "gender": "Female",
+            "dateOfBirth": "29/09/2003",
+            "createDate": "28/05/2023",
+            "updateDate": "28/05/2023"
+        }
+    ]
+}
